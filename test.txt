@@ -1,0 +1,19 @@
+
+unit test - jest, mocha, jasmine
+integration test - supertest, selenium
+E2E test - selenium, cypress
+
+jest
+
+mock
+
+实际结果和我们的预期
+
+TDD (TEST DRIVEN DEVELOPMENT)
+
+test coverage
+95% >
+
+
+white box test
+black box test
